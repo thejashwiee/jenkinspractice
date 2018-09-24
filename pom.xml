@@ -14,10 +14,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-  <build>
-    <finalName>student</finalName>
-    <dependencies>
       <dependency>
          <groupId>com.acme.common</groupId>
          <artifactId>'mvn job'</artifactId>
@@ -25,5 +21,4 @@
            <scope>test</scope>
       </dependency>
     </dependencies>
-  </build>
 </project>
